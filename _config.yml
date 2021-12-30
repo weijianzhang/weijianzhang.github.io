@@ -6,13 +6,14 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Writings on Maths & Machine Learning Engineering
+title: Writings on Applied Maths & ML Engineering
 description:
 github_username: weijianzhang
 
 # Email and twitter are optional:
 email:
-twitter_username:
+twitter_username: zweijian
+linkedin_username: zweijian
 
 # Set this to true to get LaTeX math equation support
 use_math: true
