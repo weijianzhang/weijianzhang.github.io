@@ -1,2 +1,1 @@
-Blog
-
+!["background"](/images/background.jpeg)
